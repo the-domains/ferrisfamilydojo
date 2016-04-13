@@ -1,7 +1,7 @@
 name: ferrisfamilydojo
 favicon: null
-layout_spectrum: 0.20853734971024096
-typography_spectrum: 0.8180442354641855
+layout_spectrum: 0.96996
+typography_spectrum: 0.05136
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.2994569183792919
-  lightness: 0.3759008264169097
-  saturation: 0.5642350232228637
-  rhythmicContrast: 0.06652757595293224
+    - '#fdfdfd'
+    - '#87b96a'
+    - '#181a26'
+    - '#fe6f91'
+    - '#aa253d'
+  brandStrength: 0.625
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
