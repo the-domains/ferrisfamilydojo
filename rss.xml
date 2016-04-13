@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ferrisfamilydojo]]></title>
         <description><![CDATA[ferrisfamilydojo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ferrisfamilydojo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 18:19:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 18:19:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ferrisfamilydojo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/feb932d8-fee1-4e1e-ad5e-369d8b6380f8.jpg">]]></description>
+            <link>https://thegrid.ai/ferrisfamilydojo/f9a4d108-45e9-4006-b3ac-8fd607a08791/index.html</link>
+            <guid isPermaLink="false">f9a4d108-45e9-4006-b3ac-8fd607a08791</guid>
+            <pubDate>Wed, 13 Apr 2016 18:19:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8e2fcc4-766a-4d10-b74c-c9747a28a7ce.jpg">]]></description>
-            <link>undefinedthat-one-year-when-i-was-stoked-for-midsummers-celebration/index.html</link>
+            <link>https://thegrid.ai/ferrisfamilydojo/that-one-year-when-i-was-stoked-for-midsummers-celebration/index.html</link>
             <guid isPermaLink="false">46312bff-038b-46c9-a431-845c1413648e</guid>
             <pubDate>Wed, 13 Apr 2016 18:19:01 GMT</pubDate>
         </item>
